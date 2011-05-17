@@ -3598,49 +3598,9 @@
           <DefaultValue>1</DefaultValue>
         </GlobalVariable>
         <GlobalVariable>
-          <Name>gr_Kevin</Name>
-          <Type>int</Type>
-          <DefaultValue>0</DefaultValue>
-        </GlobalVariable>
-        <GlobalVariable>
-          <Name>gr_Kamin</Name>
-          <Type>int</Type>
-          <DefaultValue>1</DefaultValue>
-        </GlobalVariable>
-        <GlobalVariable>
-          <Name>gr_Dachboden</Name>
-          <Type>int</Type>
-          <DefaultValue>2</DefaultValue>
-        </GlobalVariable>
-        <GlobalVariable>
           <Name>gb_LukeZu</Name>
           <Type>bool</Type>
           <DefaultValue>true</DefaultValue>
-        </GlobalVariable>
-        <GlobalVariable>
-          <Name>gr_Kueche</Name>
-          <Type>int</Type>
-          <DefaultValue>3</DefaultValue>
-        </GlobalVariable>
-        <GlobalVariable>
-          <Name>gr_Bad</Name>
-          <Type>int</Type>
-          <DefaultValue>4</DefaultValue>
-        </GlobalVariable>
-        <GlobalVariable>
-          <Name>gr_Haustuer</Name>
-          <Type>int</Type>
-          <DefaultValue>5</DefaultValue>
-        </GlobalVariable>
-        <GlobalVariable>
-          <Name>gr_Ende</Name>
-          <Type>int</Type>
-          <DefaultValue>19</DefaultValue>
-        </GlobalVariable>
-        <GlobalVariable>
-          <Name>gr_Ende2</Name>
-          <Type>int</Type>
-          <DefaultValue>18</DefaultValue>
         </GlobalVariable>
       </Variables>
     </GlobalVariables>

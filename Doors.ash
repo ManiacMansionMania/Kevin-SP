@@ -5,6 +5,17 @@ enum eDoorState
 	eDoorLocked		= 2, 
 };
 	
+enum eDoorNum
+{
+	eDoorNumKevin, 
+	eDoorNumKamin, 
+	eDoorNumDachboden, 
+	eDoorNumKueche, 
+	eDoorNumBad, 
+	eDoorNumHaustuer, 
+	eDoorNumWasser1, 
+	eDoorNumWasser2, 
+};
 
 struct DoorType
 {
