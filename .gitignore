@@ -4,3 +4,4 @@ agssave.*
 *bak
 backup*
 warnings.log
+*.crm.user
